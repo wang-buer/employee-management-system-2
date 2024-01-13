@@ -1,10 +1,4 @@
-# 员工管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**员工2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 员工管理系统2
 
 ## 1、项目介绍
 
@@ -31,33 +25,30 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208615.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208122208615.jpg)
 
 ### 4.2其它 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208133.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208122208133.jpg)
 
-![添加员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208614.jpg)
+![添加员工信息](https://www.codeshop.fun/Typora-Images/202208122208614.jpg)
 
-![员工查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208805.jpg)
+![员工查询](https://www.codeshop.fun/Typora-Images/202208122208805.jpg)
 
-![添加应聘](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208852.jpg)
+![添加应聘](https://www.codeshop.fun/Typora-Images/202208122208852.jpg)
 
-![招聘查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208288.jpg)
+![招聘查询](https://www.codeshop.fun/Typora-Images/202208122208288.jpg)
 
-![奖惩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208912.jpg)
+![奖惩管理](https://www.codeshop.fun/Typora-Images/202208122208912.jpg)
 
-![薪资查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208028.jpg)
+![薪资查询](https://www.codeshop.fun/Typora-Images/202208122208028.jpg)
 
-![添加薪资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208073.jpg)
+![添加薪资](https://www.codeshop.fun/Typora-Images/202208122208073.jpg)
 
-![添加培训信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122208092.jpg)
+![添加培训信息](https://www.codeshop.fun/Typora-Images/202208122208092.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： **员工2**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
